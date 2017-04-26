@@ -1,6 +1,6 @@
 # npmtest-gulp-google-cdn
 
-#### test coverage for  [gulp-google-cdn (v2.1.0)](https://github.com/sindresorhus/gulp-google-cdn)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-google-cdn.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-google-cdn) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-google-cdn.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-google-cdn)
+#### basic test coverage for  [gulp-google-cdn (v2.1.0)](https://github.com/sindresorhus/gulp-google-cdn)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-google-cdn.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-google-cdn) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-google-cdn.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-google-cdn)
 
 #### Replaces script references with Google CDN ones
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-google-cdn/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-google-cdn/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-google-cdn/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-google-cdn/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-google-cdn/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-google-cdn/build/coverage.html/index.html)
 
@@ -88,7 +88,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "bin": {}
 }
 ```
 
