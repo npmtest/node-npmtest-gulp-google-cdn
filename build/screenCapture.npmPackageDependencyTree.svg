@@ -10,8 +10,8 @@
 <tspan x="10" y="122">  │ ├── bower@1.8.0 </tspan>
 <tspan x="10" y="138">  │ ├─┬ cdnjs-cdn-data@0.1.2 </tspan>
 <tspan x="10" y="154">  │ │ └── semver@5.0.3 </tspan>
-<tspan x="10" y="170">  │ ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="186">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="170">  │ ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="186">  │ │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="202">  │ ├── escape-regexp@0.0.1 </tspan>
 <tspan x="10" y="218">  │ ├── google-cdn-data@0.1.25 </tspan>
 <tspan x="10" y="234">  │ ├── regexp-quote@0.0.0 </tspan>
